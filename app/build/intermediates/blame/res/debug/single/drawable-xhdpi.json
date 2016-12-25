@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\androidStudio\\workspace\\HorizontalListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\androidStudio\\workspace\\HorizontalListView\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\androidStudio\\workspace\\HorizontalListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\transparent_bg.png",
+        "source": "F:\\androidStudio\\workspace\\HorizontalListView\\app\\src\\main\\res\\drawable-xhdpi\\transparent_bg.png"
+    }
+]
